@@ -80,5 +80,3 @@ Se encontrar algum bug, por favor abra uma issue no GitHub:
 Este projeto está licenciado sob os termos da licença ISC.
 
 ---
-
-Feito com ❤️ por [@juravellar](https://github.com/juravellar)
