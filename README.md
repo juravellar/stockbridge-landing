@@ -1,4 +1,3 @@
-````markdown
 # Stockbridge Landing
 
 Este é um projeto React utilizando **Next.js**, **Tailwind CSS**, e diversos componentes da **Radix UI** para criar uma interface moderna e acessível.
