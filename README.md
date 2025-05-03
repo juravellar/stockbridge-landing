@@ -83,10 +83,3 @@ Este projeto está licenciado sob os termos da licença ISC.
 ---
 
 Feito com ❤️ por [@juravellar](https://github.com/juravellar)
-
-```
-
----
-
-Se quiser, posso adicionar instruções para deploy em Vercel, Netlify ou Docker também. Deseja isso?
-```
